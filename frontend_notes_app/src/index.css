@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: var(--ocean-bg, #f9fafb);
+  color: var(--ocean-text, #111827);
 }
 
 code {
